@@ -1,0 +1,48 @@
+Monument "Astana - Baiterek"
+Description: The Baiterek monument is one of the most recognizable monuments of the capital of Kazakhstan. It represents the World river and the Tree of Life. Visitors can make a wish by putting their hand in the President's handprint.
+Address: Astana, Nurly Zhol Boulevard, 14
+Opening Hours: Monday to Sunday, 09:00-21:00
+Phone number: +7 (7172) 79-04-39
+Location: Latitude 71.4305369555112, Longitude 51.1284237025686
+Oceanarium "Ailand"
+Description: Ailand is an oceanarium in Astana, Kazakhstan, holding 3 million liters of water and 120 tons of sea salt. It features various marine animals and an acrylic tunnel.
+Address: Astana, Korgalzhyn roadway, 2
+Opening Hours: Monday to Sunday, 10:00-20:00
+Phone number: +7 (7172) 79-04-39
+Location: Latitude 71.4172697690041, Longitude 51.1485266766986
+Theater of animatronics "Jungle"
+Description: A dinosaur park with animatronic dinosaurs, offering a journey through the jungle with theatrical performances and water slides.
+Address: Astana, Korgalzhyn roadway, 2
+Opening Hours: Monday to Saturday, 10:00-20:00; Sunday Closed
+Phone number: +7 (7172) 79-04-39
+Location: Latitude 71.4172697690041, Longitude 51.1485266766986
+Ferris wheel "Ailand"
+Description: The largest Ferris wheel in Kazakhstan, offering panoramic views of the city of Astana.
+Address: Astana, Korgalzhyn roadway, 2
+Opening Hours: Monday to Sunday, 10:00-20:00
+Phone number: +7 (7172) 79-04-39
+Location: Latitude 71.4144765285282, Longitude 51.1473444280063
+Museum of Future Energy Nur-Alem (EXPO)
+Description: Nur-Alem is the main symbol of EXPO Nur-Sultan, featuring exhibitions on alternative energy sources.
+Address: Astana, Orynbor, 55
+Opening Hours: Closed on Monday; Tuesday to Sunday, 10:00-20:00
+Phone number: +7 (7172) 79-04-39
+Location: Latitude 71.4160173266733, Longitude 51.0892723272323
+Palace of Peace and Reconciliation
+Description: A pyramid-shaped building serving as a venue for congresses of representatives of world religions.
+Address: Astana, Tauelsizdik Avenue, 57
+Opening Hours: Closed on Monday; Tuesday to Saturday, 10:00-18:00; Sunday Closed
+Phone number: +7 (7172) 79-04-39
+Location: Latitude 71.463675613183, Longitude 51.123236316496
+Excursion in "Astana Opera" theatre
+Description: ASTANA OPERA is the largest temple of art in Central Asia, offering classical performances.
+Address: Astana, Kunaev street, 1
+Opening Hours: Closed on Monday; Tuesday to Sunday, 11:00, 15:00
+Phone number: +7 (7172) 79-04-39
+Location: Latitude 71.4105592401675, Longitude 51.1350696770538
+Saken Seifullin museum
+Description: The Seifullin Museum in Astana showcases the life and works of poet Saken Seifullin.
+Address: Astana, Auezov street, 20
+Opening Hours: Monday to Friday, 09:00-17:00; Saturday and Sunday Closed
+Phone number: +7 (7172) 79-04-39
+Location: Latitude 71.4234377229729, Longitude 51.1715982211759

@@ -2,5 +2,5 @@
 
 
 ```bash
-chainlit run main.py -w
+`chainlit run main.py -w`
 ```
